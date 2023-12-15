@@ -10,4 +10,21 @@
 /#/#
 --
 
+1. dgdg
+   1. dgdg
+      1. dgdg
+         1. dgdg
+* dgdg
+  * dgdg
++ dgdg
+  + dgdg
+    + dgdg
+- dgdg
+  - dgdg
+    - dgdg
+      - dgdg
+    Tab
+    4 blanks
+1.     text block with '5 blanks'
+
 [마크다운 뷰어에서 안보이는 텍스트]: #
