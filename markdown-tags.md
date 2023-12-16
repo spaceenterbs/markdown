@@ -27,4 +27,7 @@
     4 blanks
 1.     text block with '5 blanks'
 
+!(https://domain.com/image/path/filename.jpg) 는 웹 경로
+![캡쳐이미지](image/path/filename.jpg "메인화면") 는 로컬 경로
+
 [마크다운 뷰어에서 안보이는 텍스트]: #
