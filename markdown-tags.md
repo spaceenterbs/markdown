@@ -45,4 +45,15 @@ https://markdownlivepreview.com/ 테스트 결과
 > 같은 맥락에서 > > 든 >> 든 인용구가 적용됨.
 > 대신 마크다운 적용이 되는 인용구 특성상 역슬래시나 공백 2개 이상을 넣어줘야 줄이 바뀜.
 
+    python
+    print("hello")
+
+```python
+print("hello")
+```
+
+~~~python
+print("hello")
+~~~
+
 [마크다운 뷰어에서 안보이는 텍스트]: #
